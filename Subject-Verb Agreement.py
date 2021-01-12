@@ -71,7 +71,6 @@ else:
         print ("Correct Answer: " + ctw_li[i][0])
         print ("Your Answer: " + ctw_li[i][1])
         print ("\n \n")
-
 print ("\n")
 print ("Choose the correct sentence.")
 print ("Input 1 or 2.")
